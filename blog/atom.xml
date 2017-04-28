@@ -8,10 +8,10 @@ layout: feed
 	<link href="http://alausted.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://alausted.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://alausted.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
+		<name>Andy Lausted</name>
+		<email>alausted@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
