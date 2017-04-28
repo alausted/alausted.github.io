@@ -1,3 +1,4 @@
 name: Andy Lausted
 markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
